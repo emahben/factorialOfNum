@@ -1,0 +1,4 @@
+factorialOfNum
+==============
+
+my first repository
